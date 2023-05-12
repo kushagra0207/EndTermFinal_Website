@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+
+# Git ignore for All Data which is not passed by the user authentication and Authorised
+# However I will make new Boundary soon
+
+# Soon we are working on the project and its datatypes we will do it
+
